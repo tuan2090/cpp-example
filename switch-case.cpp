@@ -19,4 +19,6 @@ int main() {
     default:
       std::cout << "CHOICE NOT FOUND!" << std::endl;
   }
+
+  return 0;
 }

@@ -10,4 +10,6 @@ int main() {
   int rn3 = (rand() % 100) + 1;
 
   std::cout << rn1 << " " << rn2 << " " << rn3 << std::endl;
+
+  return 0;
 }

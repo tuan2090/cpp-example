@@ -10,4 +10,6 @@ int main() {
     std::cout << i << std::endl;
   }
   std::cout << "Happy New Year!" << std::endl;
+
+  return 0;
 }

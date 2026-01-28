@@ -18,4 +18,6 @@ int main() {
   } else {
     std::cout << "X and y is not a number" << std::endl;
   }
+
+  return 0;
 }

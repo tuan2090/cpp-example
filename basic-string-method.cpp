@@ -14,4 +14,6 @@ int main() {
   } else {
     std::cout << "Hello, " << username << std::endl;
   }
+
+  return 0;
 }

@@ -9,4 +9,6 @@ int main() {
   hello("John");
   hello("Alice");
   hello("Bob");
+
+  return 0;
 }

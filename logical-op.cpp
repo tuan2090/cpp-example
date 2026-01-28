@@ -16,4 +16,6 @@ int main() {
   } else if (!(numa == numb)) {
     std::cout << "numa != numb" << std::endl;
   }
+
+  return 0;
 }

@@ -8,4 +8,6 @@ int main() {
     std::cout << i << std::endl;
   }
   std::cout << "Happy birthday to you!" << std::endl;
+
+  return 0;
 }
