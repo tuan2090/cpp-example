@@ -1,12 +1,12 @@
 #include <iostream>
 
-void hello() {
-  std::cout << "Hello, World!" << std::endl;
+void hello(std::string name) {
+  std::cout << "Hello, " << name << "!" << std::endl;
 }
 
 int main() {
-  hello();
-  hello();
-  hello();
-
+  hello("World");
+  hello("John");
+  hello("Alice");
+  hello("Bob");
 }
